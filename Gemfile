@@ -55,3 +55,4 @@ gem 'figaro'
 gem 'devise'
 gem 'pundit'
 
+gem 'react-rails'
