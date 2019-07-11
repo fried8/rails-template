@@ -10,7 +10,7 @@ import * as types from '../constants/Types'
 //     default:
 //       return state
 //   }
-}
+// }
 
 const app = (state = '', action) => {
   switch (action.type) {
